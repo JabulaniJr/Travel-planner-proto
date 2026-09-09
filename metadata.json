@@ -1,0 +1,6 @@
+{
+  "name": "Travel Planner",
+  "description": "All-in-one travel planning assistant with AI itineraries, budget tracking, group collaboration, and real-time re-planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
